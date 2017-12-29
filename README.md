@@ -4,7 +4,15 @@ Java code using the HAPI-FHIR (2.5) library created for the HL7 San Diego WGM 20
 
 These examples make use of the opensource [JAVA FHIR API](https://github.com/jamesagnew/hapi-fhir/)
 
+The Java (HAPI-FHIR 2.5 library) code within this project creates a simple client.
 
+Pre-requisite resources include:
+
+- Location
+- Slot
+- Schedule
+- Organization
+- Appointment
 
 
 
